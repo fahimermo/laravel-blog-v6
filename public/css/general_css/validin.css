@@ -1,0 +1,13 @@
+input.invalid,
+.match_error,
+.match_error:focus {
+	border-color: #ff7a7a;
+}
+
+.validation_error {
+	margin: .4em 0 1em;
+	color: #ff7a7a;
+	font-size: .7em;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+}
